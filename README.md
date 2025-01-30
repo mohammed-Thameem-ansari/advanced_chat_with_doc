@@ -123,4 +123,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Author
 
-Developed by [SAKETH ANANTHULA](https://github.com/saketh-ananthula).
+Developed by [MOHAMMED THAMEEM ANSARI K](https://github.com/mohammed-Thameem-ansari).
